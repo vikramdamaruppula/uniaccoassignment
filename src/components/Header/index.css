@@ -1,0 +1,34 @@
+.nav-container {
+  display: flex;
+  margin: 20px 60px;
+  justify-content: space-between;
+  box-shadow: 2px 2px 4px antiquewhite;
+}
+
+.main-container {
+  display: flex;
+  border-top: 1px solid black;
+  margin: 0px 20px;
+}
+.globe {
+  padding-top: 18px;
+  margin: 0px 8px;
+}
+
+.bottom {
+  padding-top: 18px;
+  background-color: ;
+}
+
+.button {
+  background-color: transparent;
+  border-radius: 10px;
+  border: 1px solid black;
+  height: 22px;
+}
+
+.image {
+  height: 50px;
+  margin: 0px 10px;
+  padding: 5px 0px;
+}

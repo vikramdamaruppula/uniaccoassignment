@@ -1,0 +1,92 @@
+.bottom-main-container {
+  margin: 10px 80px;
+  display: flex;
+  flex-direction: column;
+}
+
+.bottom-top-section {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container-bottom-all {
+  display: flex;
+  flex-direction: row;
+}
+
+.bottom-section-inner {
+  display: flex;
+}
+.icons {
+  margin-top: 18px;
+}
+
+.para2 {
+  text-decoration: underline;
+  margin-right: 10px;
+}
+
+.card-container-bottom {
+  display: flex;
+  flex-direction: column;
+  margin: 0px 10px;
+}
+
+.image-part {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  border-radius: 10px;
+  height: 30vh;
+  width: 15vw;
+  background-size: cover;
+}
+.icon {
+  align-self: flex-start;
+  padding: 15px;
+}
+
+.bottom-content-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.star-content {
+  display: flex;
+  flex-direction: row;
+}
+.star-icon {
+  margin-top: 18px;
+}
+
+.rating {
+  font-weight: 600;
+}
+
+.description {
+  font-size: 14px;
+  font-weight: 300;
+  padding: 2px;
+}
+
+.first-bottom {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ1Y2tqZMiN_FHEi72Jzi4Sve5Y6ckCjvAaXAXRy0eAh-3dWTXzuXJHDTTuX8ToEwwEEw&usqp=CAU');
+}
+
+.second-bottom {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7j4sg03nMmWTLbsKyrxBPXB79_lVZMrMoThw5FJxCIkzaFLhCofKPc3im9wprD14_8yQ&usqp=CAU');
+}
+
+.third-bottom {
+  background-image: url('https://img.freepik.com/premium-photo/thinking-woman-getting-answers-thinking-question-mark-symbo-lgirl-question-woman-with-doubtful-expression-question-marks_293990-1939.jpg?w=2000');
+}
+.fourth-bottom {
+  background-image: url('https://img.freepik.com/premium-photo/young-pensive-woman-casual-style-attire-holding-paper-with-question-mark-thoughtful-face-thinking-about-question-very-confused-idea-indoor-studio-shot-isolated-gray-background_416530-18386.jpg?w=2000');
+}
+.fifth-bottom {
+  background-image: url('https://lh5.googleusercontent.com/p/AF1QipOrVCW8YwNSlErecaeoxMYPc7o059mXUn1mAPlx=w408-h272-k-no');
+}
+
+.sixth-bottom {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVZBcMHNtXCL0IplSm8vAzvSA7LJgV8AZL5Cei5DvskLZOWbdW6tBzFsmlkiQJlulEwHs&usqp=CAU');
+}

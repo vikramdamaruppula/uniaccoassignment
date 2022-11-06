@@ -1,0 +1,78 @@
+.second-main-container {
+  margin: 5px 80px;
+}
+
+.second-inner-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.icons {
+  margin-top: 18px;
+}
+
+.heading {
+  font-size: 18px;
+}
+.card-container {
+  align-items: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+.card-container-1 {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmZFgiiuOmPTjs8xrp53QwQN2Ae0Fp_ldNFQ&usqp=CAU');
+  height: 35vh;
+  width: 35vw;
+  background-size: cover;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  max-width: 33.333%;
+  padding: 0.75rem;
+  margin-bottom: 2rem;
+  border: 0;
+  flex-basis: 33.333%;
+  flex-grow: 0;
+  flex-shrink: 0;
+}
+.button {
+  height: 25px;
+  background-color: #ffffff;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+}
+
+.top-section {
+  color: #ffffff;
+}
+.para-2 {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.second {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRtbj0tD3HIY_L6RtllDXZGybOAmr-xjUAeg&usqp=CAU');
+}
+.third {
+  background-image: url('https://images.unsplash.com/photo-1541963463532-d68292c34b19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80');
+}
+.fourth {
+  background-image: url('https://thumbs.dreamstime.com/b/beautiful-rain-forest-ang-ka-nature-trail-doi-inthanon-national-park-thailand-36703721.jpg');
+}
+.fifth {
+  background-image: url('https://thumbs.dreamstime.com/b/incredibly-beautiful-sunset-sun-lake-sunrise-landscape-panorama-nature-sky-amazing-colorful-clouds-fantasy-design-115177001.jpg');
+}
+.sixth {
+  background-image: url('https://thumbs.dreamstime.com/b/healthy-woman-lifestyle-balanced-practicing-meditate-zen-energy-yoga-bridge-morning-mountain-nature-life-concept-130165739.jpg');
+}
+.seventh {
+  background-image: url('https://thumbs.dreamstime.com/b/toucan-sitting-branch-forest-green-vegetation-costa-rica-nature-travel-central-america-two-keel-billed-ramphastos-136803994.jpg');
+}
